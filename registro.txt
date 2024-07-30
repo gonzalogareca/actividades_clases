@@ -1,0 +1,8 @@
+Nombre: fernadno
+Apellido: batallanos
+Carrera: ing sistemas
+
+Nombre: gonzalo
+Apellido: gareca
+Carrera: ing sistemas
+
